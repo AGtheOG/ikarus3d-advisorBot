@@ -31,6 +31,45 @@ This screen demonstrates the chat interaction with the Advisor Bot where user ca
 All screenshots are stored in the `/assets` directory.
 
 
+---
+
+## 🧩 Recommendation System
+
+### 🔹 Version 1 — Hybrid Embeddings
+- Combined **text embeddings** (product descriptions) with **image embeddings** (CNN features).  
+- Used cosine similarity for retrieval.  
+- Faced reduced accuracy due to inconsistent feature scaling and cross-modal variance.
+- recoSystem1.ipynb and backend
+- 
+### 🔹 Version 2 — CLIP ViT-B/32 Model
+- Switched to **CLIP (ViT-B/32)** for unified text–image embedding space.  
+- Achieved significantly better retrieval accuracy and faster inference.  
+- Integrated into the second backend version (`model_v2`).
+- recoSystem2.ipynb and backendv1
+---
+
+## 🪣 Vector Storage with Pinecone
+- All image and text embeddings are stored and indexed in **Pinecone** for efficient similarity search.  
+- Enables real-time retrieval for recommendations and analytics queries.
+
+---
+
+## 🚀 Tech Stack
+- **Frontend:** React + Tailwind CSS  
+- **Backend:** FastAPI  
+- **AI / ML:** CLIP (ViT-B/32), Hybrid Embeddings  
+- **Vector DB:** Pinecone 
+- **Visualization:** Matplotlib, Plotly
+
+---
+
+## 📈 Future Improvements
+- Fine-tuning CLIP embeddings on domain-specific data  
+- Incorporating user interaction feedback loops  
+- Extending analytics to include session-based recommendations
+
+
+
 
 
 
