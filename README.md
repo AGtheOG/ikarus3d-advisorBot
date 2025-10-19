@@ -18,7 +18,7 @@ It helps monitor trends and track actionable insights easily.
 
 ---
 
-## 💬 Demo 01
+## 💬 Reco system Demo
 This screen demonstrates the chat interaction with the Advisor Bot where user can get custom recommndations for their required product.
 
 ![Demo 01](./assets/demo01.png)
@@ -29,4 +29,5 @@ This screen demonstrates the chat interaction with the Advisor Bot where user ca
 
 ### 📸 Assets
 All screenshots are stored in the `/assets` directory.
+
 
