@@ -1,0 +1,588 @@
+{
+    "avgPriceByCategory": [
+        {
+            "primary_category": "Wine Cabinets",
+            "price": 349.0
+        },
+        {
+            "primary_category": "Bedside Cribs",
+            "price": 259.99
+        },
+        {
+            "primary_category": "Chests & Dressers",
+            "price": 199.0
+        },
+        {
+            "primary_category": "Managerial & Executive Chairs",
+            "price": 189.99
+        },
+        {
+            "primary_category": "Computer Gaming Chairs",
+            "price": 179.0
+        },
+        {
+            "primary_category": "Adirondack Chairs",
+            "price": 159.99
+        },
+        {
+            "primary_category": "Mobile Storage Islands",
+            "price": 149.99
+        },
+        {
+            "primary_category": "Boot & Shoe Boxes",
+            "price": 143.98
+        },
+        {
+            "primary_category": "Home Office Desk Chairs",
+            "price": 129.32
+        },
+        {
+            "primary_category": "Barstools",
+            "price": 128.45
+        },
+        {
+            "primary_category": "Video Game Chairs",
+            "price": 126.49
+        },
+        {
+            "primary_category": "Chairs",
+            "price": 122.38
+        },
+        {
+            "primary_category": "Tables",
+            "price": 122.13
+        },
+        {
+            "primary_category": "Folding Chairs",
+            "price": 119.0
+        },
+        {
+            "primary_category": "Bar & Serving Carts",
+            "price": 115.0
+        },
+        {
+            "primary_category": "Coffee Tables",
+            "price": 106.9
+        },
+        {
+            "primary_category": "Storage Cabinets",
+            "price": 99.99
+        },
+        {
+            "primary_category": "Box Springs",
+            "price": 99.49
+        },
+        {
+            "primary_category": "TV Wall & Ceiling Mounts",
+            "price": 97.43
+        },
+        {
+            "primary_category": "Game & Recreation Room Furniture",
+            "price": 95.2
+        },
+        {
+            "primary_category": "Over-the-Toilet Storage",
+            "price": 93.66
+        },
+        {
+            "primary_category": "Bathroom Mirrors",
+            "price": 90.0
+        },
+        {
+            "primary_category": "Home Office Desks",
+            "price": 82.14
+        },
+        {
+            "primary_category": "Nightstands",
+            "price": 79.98
+        },
+        {
+            "primary_category": "Poufs",
+            "price": 79.0
+        },
+        {
+            "primary_category": "Bed Frames",
+            "price": 78.44
+        },
+        {
+            "primary_category": " Furniture\", ",
+            "price": 72.84
+        },
+        {
+            "primary_category": "Wall-Mounted Vanity Mirrors",
+            "price": 69.99
+        },
+        {
+            "primary_category": "Furniture",
+            "price": 69.99
+        },
+        {
+            "primary_category": "Coat Racks",
+            "price": 69.49
+        },
+        {
+            "primary_category": "Bar Cabinets",
+            "price": 69.0
+        },
+        {
+            "primary_category": "Mattress Toppers",
+            "price": 64.99
+        },
+        {
+            "primary_category": "Turntables",
+            "price": 63.35
+        },
+        {
+            "primary_category": "Storage Benches",
+            "price": 63.32
+        },
+        {
+            "primary_category": "Folding Tables",
+            "price": 61.99
+        },
+        {
+            "primary_category": "End Tables",
+            "price": 60.42
+        },
+        {
+            "primary_category": "Bookcases",
+            "price": 59.99
+        },
+        {
+            "primary_category": "TV Trays",
+            "price": 57.49
+        },
+        {
+            "primary_category": "Towel Bars",
+            "price": 55.59
+        },
+        {
+            "primary_category": "Dressers",
+            "price": 54.99
+        },
+        {
+            "primary_category": "Ottomans",
+            "price": 53.49
+        },
+        {
+            "primary_category": ", ",
+            "price": 52.25
+        },
+        {
+            "primary_category": "Folding Shoe Racks",
+            "price": 51.99
+        },
+        {
+            "primary_category": "Sofa & Console Tables",
+            "price": 51.66
+        },
+        {
+            "primary_category": "Storage Trunks",
+            "price": 50.0
+        },
+        {
+            "primary_category": "Vanities & Vanity Benches",
+            "price": 49.94
+        },
+        {
+            "primary_category": "Wall-Mounted Mirrors",
+            "price": 49.05
+        },
+        {
+            "primary_category": "Wastebaskets",
+            "price": 46.71
+        },
+        {
+            "primary_category": "Mattresses",
+            "price": 43.99
+        },
+        {
+            "primary_category": "Ladder Shelves",
+            "price": 42.99
+        },
+        {
+            "primary_category": "Towel Rings",
+            "price": 40.96
+        },
+        {
+            "primary_category": "Bean Bags",
+            "price": 37.49
+        },
+        {
+            "primary_category": "Makeup Mirrors",
+            "price": 37.22
+        },
+        {
+            "primary_category": "Toy Chests & Organizers",
+            "price": 34.9
+        },
+        {
+            "primary_category": "Free Standing Shoe Racks",
+            "price": 29.32
+        },
+        {
+            "primary_category": "Towel Racks",
+            "price": 27.48
+        },
+        {
+            "primary_category": "DVD Cases",
+            "price": 24.98
+        },
+        {
+            "primary_category": "Freestanding Wine Racks & Cabinets",
+            "price": 21.99
+        },
+        {
+            "primary_category": "Hampers",
+            "price": 18.99
+        },
+        {
+            "primary_category": "Doormats",
+            "price": 18.38
+        },
+        {
+            "primary_category": "Recliner Parts",
+            "price": 17.49
+        },
+        {
+            "primary_category": "Storage Carts",
+            "price": 15.99
+        },
+        {
+            "primary_category": "Shoe Slots",
+            "price": 15.49
+        },
+        {
+            "primary_category": "Bathroom Sets",
+            "price": 15.0
+        },
+        {
+            "primary_category": "Shower Mirrors",
+            "price": 14.95
+        },
+        {
+            "primary_category": "Supply Organizers",
+            "price": 13.99
+        },
+        {
+            "primary_category": "Over the Door Shoe Organizers",
+            "price": 13.29
+        },
+        {
+            "primary_category": "Sofa Parts",
+            "price": 12.32
+        },
+        {
+            "primary_category": "Bed Parts",
+            "price": 9.62
+        },
+        {
+            "primary_category": "Pop-Up Laundry Hampers",
+            "price": 6.75
+        }
+    ],
+    "productsByBrand": [
+        {
+            "brand": "MoNiBloom Store",
+            "product_count": 3
+        },
+        {
+            "brand": "BOKKOLIK Store",
+            "product_count": 2
+        },
+        {
+            "brand": "Cpintltr Store",
+            "product_count": 2
+        },
+        {
+            "brand": "Flash Furniture Store",
+            "product_count": 2
+        },
+        {
+            "brand": "GXFC ZHAO Store",
+            "product_count": 2
+        },
+        {
+            "brand": "FLYJOE",
+            "product_count": 2
+        },
+        {
+            "brand": "Casual Home Store",
+            "product_count": 2
+        },
+        {
+            "brand": "Tiita Store",
+            "product_count": 2
+        },
+        {
+            "brand": "ODK Store",
+            "product_count": 2
+        },
+        {
+            "brand": "Kingston Brass Store",
+            "product_count": 2
+        },
+        {
+            "brand": "Alise Store",
+            "product_count": 2
+        },
+        {
+            "brand": "huester",
+            "product_count": 2
+        },
+        {
+            "brand": "glitzhome",
+            "product_count": 2
+        },
+        {
+            "brand": "Way Basics Store",
+            "product_count": 2
+        },
+        {
+            "brand": "Asense Store",
+            "product_count": 1
+        },
+        {
+            "brand": "ANDY STAR Store",
+            "product_count": 1
+        },
+        {
+            "brand": "AMHANCIBLE Store",
+            "product_count": 1
+        },
+        {
+            "brand": "ACCHAR",
+            "product_count": 1
+        },
+        {
+            "brand": "AnyDesign",
+            "product_count": 1
+        },
+        {
+            "brand": "Bednowitz Store",
+            "product_count": 1
+        }
+    ],
+    "productsByCountry": [
+        {
+            "country": "China",
+            "product_count": 67
+        },
+        {
+            "country": "Taiwan",
+            "product_count": 4
+        },
+        {
+            "country": "Morocco",
+            "product_count": 1
+        },
+        {
+            "country": "USA",
+            "product_count": 1
+        },
+        {
+            "country": "India",
+            "product_count": 1
+        },
+        {
+            "country": "Malaysia",
+            "product_count": 1
+        }
+    ],
+    "materialDistribution": [
+        {
+            "material": "Wood",
+            "count": 21
+        },
+        {
+            "material": "Engineered Wood",
+            "count": 17
+        },
+        {
+            "material": "Metal",
+            "count": 9
+        },
+        {
+            "material": "Rubber",
+            "count": 9
+        },
+        {
+            "material": "Iron",
+            "count": 6
+        },
+        {
+            "material": "Stainless Steel",
+            "count": 5
+        },
+        {
+            "material": "Foam",
+            "count": 5
+        },
+        {
+            "material": "Plastic",
+            "count": 5
+        },
+        {
+            "material": "Memory Foam",
+            "count": 4
+        },
+        {
+            "material": "Bamboo",
+            "count": 4
+        }
+    ],
+    "priceHeatmap": {
+        "categories": [
+            " Furniture\", ",
+            "Barstools",
+            "Chairs",
+            "Doormats",
+            "End Tables",
+            "Home Office Desk Chairs",
+            "Home Office Desks",
+            "Ottomans",
+            "Towel Bars",
+            "Wall-Mounted Mirrors"
+        ],
+        "columns": [
+            "Beige",
+            "Black",
+            "Blue",
+            "Brown",
+            "Gold",
+            "Grey",
+            "Matte Black",
+            "Rustic Brown",
+            "Silver",
+            "White"
+        ],
+        "values": [
+            [
+                0.0,
+                0.0,
+                0.0,
+                33.99,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                68.99
+            ],
+            [
+                0.0,
+                44.245000000000005,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                50.0
+            ],
+            [
+                149.99,
+                110.24,
+                219.0,
+                0.0,
+                0.0,
+                109.99000000000001,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                24.99,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                58.2375,
+                0.0,
+                61.989999999999995,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                37.99
+            ],
+            [
+                159.99,
+                129.98666666666668,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                99.0
+            ],
+            [
+                0.0,
+                109.99000000000001,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                67.9,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                37.99,
+                0.0,
+                54.99,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                69.99
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                34.99,
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                47.67,
+                22.99,
+                24.99,
+                43.723333333333336,
+                0.0,
+                0.0,
+                0.0,
+                52.43,
+                19.24
+            ]
+        ]
+    },
+    "keyMetrics": {
+        "totalProducts": 210,
+        "uniqueBrands": 195,
+        "averagePrice": 68.29,
+        "uniqueCategories": 70
+    }
+}
