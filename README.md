@@ -1,6 +1,6 @@
 # Ikarus3D Advisor Bot
 
-A smart, interactive assistant designed to help users explore data insights through an intuitive chat interface.
+A smart, interactive assistant designed to help users explore available products through an intuitive chat interface.
 
 ---
 
@@ -29,3 +29,4 @@ This screen demonstrates the chat interaction with the Advisor Bot where user ca
 
 ### 📸 Assets
 All screenshots are stored in the `/assets` directory.
+
