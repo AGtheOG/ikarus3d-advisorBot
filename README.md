@@ -57,7 +57,7 @@ All screenshots are stored in the `/assets` directory.
 ## 🚀 Tech Stack
 - **Frontend:** React + Tailwind CSS  
 - **Backend:** FastAPI  
-- **AI / ML:** CLIP (ViT-B/32), Hybrid Embeddings  
+- **AI / ML:** LangChain, CLIP (ViT-B/32), Hybrid Embeddings  
 - **Vector DB:** Pinecone 
 - **Visualization:** Matplotlib, Plotly
 
@@ -67,6 +67,7 @@ All screenshots are stored in the `/assets` directory.
 - Fine-tuning CLIP embeddings on domain-specific data  
 - Incorporating user interaction feedback loops  
 - Extending analytics to include session-based recommendations
+
 
 
 
