@@ -40,7 +40,7 @@ All screenshots are stored in the `/assets` directory.
 - Used cosine similarity for retrieval.  
 - Faced reduced accuracy due to inconsistent feature scaling and cross-modal variance.
 - recoSystem1.ipynb and backend
-- 
+---
 ### 🔹 Version 2 — CLIP ViT-B/32 Model
 - Switched to **CLIP (ViT-B/32)** for unified text–image embedding space.  
 - Achieved significantly better retrieval accuracy and faster inference.  
@@ -67,6 +67,7 @@ All screenshots are stored in the `/assets` directory.
 - Fine-tuning CLIP embeddings on domain-specific data  
 - Incorporating user interaction feedback loops  
 - Extending analytics to include session-based recommendations
+
 
 
 
